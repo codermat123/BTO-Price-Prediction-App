@@ -15,3 +15,5 @@ This app utilizes streamlit and python to predict Build-To-Order (BTO) flat pric
 
 4. **Downloadable Dataset**:
    - Allows users to download the cleaned dataset used in the analysis.
+   
+For any questions or feedback, feel free to contact the developer: matiasfong777@gmail.com
