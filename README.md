@@ -1,4 +1,5 @@
-BTO Price Prediction app utilizes streamlit and python to predict Build-To-Order (BTO) flat prices in Singapore and recommend flats based on user inputs such as budget, location, and year. It uses **Polynomial Regression** for price predictions and provides historical data visualization.
+#BTO Price Prediction app 
+utilizes streamlit and python to predict Build-To-Order (BTO) flat prices in Singapore and recommend flats based on user inputs such as budget, location, and year. It uses **Polynomial Regression** for price predictions and provides historical data visualization.
 
 ## Features
 1. **BTO Price Prediction**:
