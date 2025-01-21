@@ -1,0 +1,20 @@
+streamlit
+pandas
+scikit-learn
+plotly
+numpy
+locale 
+
+import streamlit as st
+from scripts.preprocessing import load_and_clean_data, encode_data, split_features_and_targets
+from scripts.recommendations import recommend_bto_budget
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.linear_model import LinearRegression
+import pandas as pd
+import plotly.graph_objects as go
+import locale
+## Run streamlit app
+streamlit run app.py
+
+# Contact
+- For any questions or feedback, feel free to contact the developer: matiasfong777@gmail.com
