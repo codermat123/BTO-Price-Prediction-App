@@ -40,7 +40,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 st.markdown(
-    "<p style='font-size:25px; color:black;'>🛠️Use the left sidebar to toggle between different features and preferences.</p>",
+    "<p style='font-size:25px;'>🛠️Use the left sidebar to toggle between different features and preferences.</p>",
     unsafe_allow_html=True
 )
 
